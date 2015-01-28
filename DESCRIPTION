@@ -1,0 +1,11 @@
+Package: regclass
+Type: Package
+Title: Modeling Tools for BAS320
+Version: 1.0
+Date: 2015-01-19
+Author: Adam Petrie
+Maintainer: Adam Petrie <apetrie@utk.edu>
+Depends: R (>= 3.1.0), car, bestglm, leaps, rpart
+Description: A compendium of custom commands for use with Introduction to Regression and Modeling by Adam Petrie
+License: GPL (>=2)
+Packaged: 2015-01-26 02:04:33 UTC; Cresthill
